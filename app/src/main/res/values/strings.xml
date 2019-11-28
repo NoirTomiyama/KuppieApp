@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KuppieApp</string>
+
+    <string-array name="timeList">
+        <item>時間を選択してください</item>
+        <item>16:30~19:30</item>
+        <item>18:00~21:00</item>
+        <item>18:30~21:30</item>
+    </string-array>
+
+    <string-array name="placeList">
+        <item>場所を選択してください</item>
+        <item>大ホール</item>
+        <item>スタジオ</item>
+        <item>南大沢文化会館</item>
+    </string-array>
+
+    <string-array name="contentList">
+        <item>内容を選択してください</item>
+        <item>自主弦</item>
+        <item>自主総合</item>
+        <item>中ソロ合わせ</item>
+    </string-array>
+
+</resources>
